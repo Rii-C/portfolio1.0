@@ -1,1 +1,1 @@
-Deployed link   https://657a14c47f3dd20691d0b22c--wonderful-crisp-b8d0a9.netlify.app/
+Deployed link   https://657a19e77f3dd209c7d0b131--ubiquitous-belekoy-0a16e1.netlify.app/
